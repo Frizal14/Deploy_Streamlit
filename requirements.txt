@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.16.1
+numpy
+Pillow
+pandas
+plotly
+h5py
+gdown
